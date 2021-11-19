@@ -188,6 +188,8 @@
     <remove-project name="platform/frameworks/opt/timezonepicker"/>
     <remove-project name="platform/frameworks/opt/vcard"/>
     <remove-project name="platform/frameworks/wilhelm"/>
+    
+    <remove-project name="platform/hardware/interfaces"/>
 
     <remove-project name="platform/packages/apps/BasicSmsReceiver"/>
     <remove-project name="platform/packages/apps/Camera2"/>
