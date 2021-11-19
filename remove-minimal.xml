@@ -189,16 +189,6 @@
     <remove-project name="platform/frameworks/opt/vcard"/>
     <remove-project name="platform/frameworks/wilhelm"/>
 
-    <remove-project name="platform/hardware/broadcom/libbt"/>
-    <remove-project name="platform/hardware/broadcom/wlan"/>
-    <remove-project name="platform/hardware/google/av"/>
-    <remove-project name="platform/hardware/google/apf"/>
-    <remove-project name="platform/hardware/google/easel"/>
-    <remove-project name="platform/hardware/google/interfaces"/>
-    <remove-project name="platform/hardware/google/pixel"/>
-    <remove-project name="platform/hardware/interfaces"/>
-    <remove-project name="platform/hardware/qcom/keymaster"/>
-
     <remove-project name="platform/packages/apps/BasicSmsReceiver"/>
     <remove-project name="platform/packages/apps/Camera2"/>
     <remove-project name="platform/packages/apps/Car/Calendar"/>
